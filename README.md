@@ -1,2 +1,2 @@
 # hello-world
-Create repository tutorial
+Create repository tutorial. This is readme file.
